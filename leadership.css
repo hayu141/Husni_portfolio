@@ -2,7 +2,7 @@
     font-size: 65px;
     text-align: center;
     color: purple;
-    background-image: url(leadership.webp);
+    background-image: url(leadership.png);
     background-size: cover;
     background-position: center;
     width: auto;
@@ -15,6 +15,7 @@
 }
     
  h2{
+    padding-right: 5px;
     color: purple;
     float: left;
     font-size: 60px;
